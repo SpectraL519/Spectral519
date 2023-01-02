@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jakub Musiał</h1>
-📫 How to reach me: **jmusial2003@gmail.com**
-
-
-<h1 align="center">Hi 👋, I'm Jakub Musiał</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spectral519&label=Profile%20views&color=0e75b6&style=flat" alt="spectral519" /> </p>
 
 📫 How to reach me **jmusial2003@gmail.com**
