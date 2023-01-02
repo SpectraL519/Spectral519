@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jakub Musiał</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spectral519&label=Profile%20views&color=0e75b6&style=flat" alt="spectral519" /> </p>
 
 📫 How to reach me **jmusial2003@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://kaggle.com/jakubmusial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jakubmusial" height="30" width="40" /></a>
-<a href="https://fb.com/jakub.musial.391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jakub.musial.391" height="30" width="40" /></a>
-</p>
 
 <br />
 
